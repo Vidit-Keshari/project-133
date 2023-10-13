@@ -1,0 +1,9 @@
+body {
+    background-image: url("gradient.png");
+}
+
+canvas {
+    border-color: '#000080';
+    border-radius: 30px;
+    border-width: 2px;
+}
